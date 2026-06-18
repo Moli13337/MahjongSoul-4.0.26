@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+*.js.map
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Certificates (auto-generated)
+certs/
+
+# Game files (copyrighted)
+game/
+*.exe
+*.dll
+*.majset
+
+# Backups
+*.original
+*.bak
+*.original_config
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "name_chs": 1,
+      "charge": 0,
+      "gift_limit": 2,
+      "friend_added": null,
+      "shop_free_refresh": 0,
+      "title_id": 600001
+    },
+    {
+      "id": 2,
+      "name_chs": 2,
+      "charge": 6,
+      "gift_limit": 4,
+      "friend_added": null,
+      "shop_free_refresh": 1,
+      "title_id": 600005
+    },
+    {
+      "id": 3,
+      "name_chs": 3,
+      "charge": 30,
+      "gift_limit": 6,
+      "friend_added": 10,
+      "shop_free_refresh": 1,
+      "title_id": 600006
+    },
+    {
+      "id": 4,
+      "name_chs": 4,
+      "charge": 60,
+      "gift_limit": 8,
+      "friend_added": 20,
+      "shop_free_refresh": 1,
+      "title_id": 600007
+    },
+    {
+      "id": 5,
+      "name_chs": 5,
+      "charge": 100,
+      "gift_limit": 10,
+      "friend_added": 30,
+      "shop_free_refresh": 1,
+      "title_id": 600008
+    },
+    {
+      "id": 6,
+      "name_chs": 6,
+      "charge": 250,
+      "gift_limit": 12,
+      "friend_added": 40,
+      "shop_free_refresh": 1,
+      "title_id": 600009
+    },
+    {
+      "id": 7,
+      "name_chs": 7,
+      "charge": 500,
+      "gift_limit": 14,
+      "friend_added": 50,
+      "shop_free_refresh": 2,
+      "title_id": 600010
+    },
+    {
+      "id": 8,
+      "name_chs": 8,
+      "charge": 1000,
+      "gift_limit": 16,
+      "friend_added": 60,
+      "shop_free_refresh": 2,
+      "title_id": 600011
+    },
+    {
+      "id": 9,
+      "name_chs": 9,
+      "charge": 2000,
+      "gift_limit": 18,
+      "friend_added": 70,
+      "shop_free_refresh": 2,
+      "title_id": 600012
+    },
+    {
+      "id": 10,
+      "name_chs": 10,
+      "charge": 3000,
+      "gift_limit": 20,
+      "friend_added": 80,
+      "shop_free_refresh": 3,
+      "title_id": 600013
+    },
+    {
+      "id": 11,
+      "name_chs": 11,
+      "charge": 4000,
+      "gift_limit": 22,
+      "friend_added": 90,
+      "shop_free_refresh": 4,
+      "title_id": 600014
+    },
+    {
+      "id": 12,
+      "name_chs": 12,
+      "charge": 5000,
+      "gift_limit": 25,
+      "friend_added": 100,
+      "shop_free_refresh": 5,
+      "title_id": 600015
+    },
+    {
+      "id": 13,
+      "name_chs": 13,
+      "charge": 8000,
+      "gift_limit": 30,
+      "friend_added": 110,
+      "shop_free_refresh": 7,
+      "title_id": 600021
+    },
+    {
+      "id": 14,
+      "name_chs": 14,
+      "charge": 12000,
+      "gift_limit": 35,
+      "friend_added": 130,
+      "shop_free_refresh": 8,
+      "title_id": 600112
+    },
+    {
+      "id": 15,
+      "name_chs": 15,
+      "charge": 18000,
+      "gift_limit": 40,
+      "friend_added": 150,
+      "shop_free_refresh": 10,
+      "title_id": 600113
+    }
+  ]
+}

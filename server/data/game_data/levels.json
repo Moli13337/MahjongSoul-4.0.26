@@ -1,0 +1,652 @@
+{
+  "entries": [
+    {
+      "id": 10101,
+      "type": 1,
+      "primary_level": 1,
+      "secondary_level": 1,
+      "init_point": 0,
+      "end_point": 20,
+      "name_chs": 1
+    },
+    {
+      "id": 10102,
+      "type": 1,
+      "primary_level": 1,
+      "secondary_level": 2,
+      "init_point": 0,
+      "end_point": 80,
+      "name_chs": 1
+    },
+    {
+      "id": 10103,
+      "type": 1,
+      "primary_level": 1,
+      "secondary_level": 3,
+      "init_point": 0,
+      "end_point": 200,
+      "name_chs": 1
+    },
+    {
+      "id": 10201,
+      "type": 1,
+      "primary_level": 2,
+      "secondary_level": 1,
+      "init_point": 300,
+      "end_point": 600,
+      "name_chs": 2
+    },
+    {
+      "id": 10202,
+      "type": 1,
+      "primary_level": 2,
+      "secondary_level": 2,
+      "init_point": 400,
+      "end_point": 800,
+      "name_chs": 2
+    },
+    {
+      "id": 10203,
+      "type": 1,
+      "primary_level": 2,
+      "secondary_level": 3,
+      "init_point": 500,
+      "end_point": 1000,
+      "name_chs": 2
+    },
+    {
+      "id": 10301,
+      "type": 1,
+      "primary_level": 3,
+      "secondary_level": 1,
+      "init_point": 600,
+      "end_point": 1200,
+      "name_chs": 3
+    },
+    {
+      "id": 10302,
+      "type": 1,
+      "primary_level": 3,
+      "secondary_level": 2,
+      "init_point": 700,
+      "end_point": 1400,
+      "name_chs": 3
+    },
+    {
+      "id": 10303,
+      "type": 1,
+      "primary_level": 3,
+      "secondary_level": 3,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 3
+    },
+    {
+      "id": 10401,
+      "type": 1,
+      "primary_level": 4,
+      "secondary_level": 1,
+      "init_point": 1400,
+      "end_point": 2800,
+      "name_chs": 4
+    },
+    {
+      "id": 10402,
+      "type": 1,
+      "primary_level": 4,
+      "secondary_level": 2,
+      "init_point": 1600,
+      "end_point": 3200,
+      "name_chs": 4
+    },
+    {
+      "id": 10403,
+      "type": 1,
+      "primary_level": 4,
+      "secondary_level": 3,
+      "init_point": 1800,
+      "end_point": 3600,
+      "name_chs": 4
+    },
+    {
+      "id": 10501,
+      "type": 1,
+      "primary_level": 5,
+      "secondary_level": 1,
+      "init_point": 2000,
+      "end_point": 4000,
+      "name_chs": 5
+    },
+    {
+      "id": 10502,
+      "type": 1,
+      "primary_level": 5,
+      "secondary_level": 2,
+      "init_point": 3000,
+      "end_point": 6000,
+      "name_chs": 5
+    },
+    {
+      "id": 10503,
+      "type": 1,
+      "primary_level": 5,
+      "secondary_level": 3,
+      "init_point": 4500,
+      "end_point": 9000,
+      "name_chs": 5
+    },
+    {
+      "id": 10601,
+      "type": 1,
+      "primary_level": 0,
+      "secondary_level": 3,
+      "init_point": 10000,
+      "end_point": 99999,
+      "name_chs": 6
+    },
+    {
+      "id": 10701,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 1,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10702,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 2,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10703,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 3,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10704,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 4,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10705,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 5,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10706,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 6,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10707,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 7,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10708,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 8,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10709,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 9,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10710,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 10,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10711,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 11,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10712,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 12,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10713,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 13,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10714,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 14,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10715,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 15,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10716,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 16,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10717,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 17,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10718,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 18,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10719,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 19,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 10720,
+      "type": 1,
+      "primary_level": 6,
+      "secondary_level": 20,
+      "init_point": 1000,
+      "end_point": 99999,
+      "name_chs": 6
+    },
+    {
+      "id": 20101,
+      "type": 2,
+      "primary_level": 1,
+      "secondary_level": 1,
+      "init_point": 0,
+      "end_point": 20,
+      "name_chs": 1
+    },
+    {
+      "id": 20102,
+      "type": 2,
+      "primary_level": 1,
+      "secondary_level": 2,
+      "init_point": 0,
+      "end_point": 80,
+      "name_chs": 1
+    },
+    {
+      "id": 20103,
+      "type": 2,
+      "primary_level": 1,
+      "secondary_level": 3,
+      "init_point": 0,
+      "end_point": 200,
+      "name_chs": 1
+    },
+    {
+      "id": 20201,
+      "type": 2,
+      "primary_level": 2,
+      "secondary_level": 1,
+      "init_point": 300,
+      "end_point": 600,
+      "name_chs": 2
+    },
+    {
+      "id": 20202,
+      "type": 2,
+      "primary_level": 2,
+      "secondary_level": 2,
+      "init_point": 400,
+      "end_point": 800,
+      "name_chs": 2
+    },
+    {
+      "id": 20203,
+      "type": 2,
+      "primary_level": 2,
+      "secondary_level": 3,
+      "init_point": 500,
+      "end_point": 1000,
+      "name_chs": 2
+    },
+    {
+      "id": 20301,
+      "type": 2,
+      "primary_level": 3,
+      "secondary_level": 1,
+      "init_point": 600,
+      "end_point": 1200,
+      "name_chs": 3
+    },
+    {
+      "id": 20302,
+      "type": 2,
+      "primary_level": 3,
+      "secondary_level": 2,
+      "init_point": 700,
+      "end_point": 1400,
+      "name_chs": 3
+    },
+    {
+      "id": 20303,
+      "type": 2,
+      "primary_level": 3,
+      "secondary_level": 3,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 3
+    },
+    {
+      "id": 20401,
+      "type": 2,
+      "primary_level": 4,
+      "secondary_level": 1,
+      "init_point": 1400,
+      "end_point": 2800,
+      "name_chs": 4
+    },
+    {
+      "id": 20402,
+      "type": 2,
+      "primary_level": 4,
+      "secondary_level": 2,
+      "init_point": 1600,
+      "end_point": 3200,
+      "name_chs": 4
+    },
+    {
+      "id": 20403,
+      "type": 2,
+      "primary_level": 4,
+      "secondary_level": 3,
+      "init_point": 1800,
+      "end_point": 3600,
+      "name_chs": 4
+    },
+    {
+      "id": 20501,
+      "type": 2,
+      "primary_level": 5,
+      "secondary_level": 1,
+      "init_point": 2000,
+      "end_point": 4000,
+      "name_chs": 5
+    },
+    {
+      "id": 20502,
+      "type": 2,
+      "primary_level": 5,
+      "secondary_level": 2,
+      "init_point": 3000,
+      "end_point": 6000,
+      "name_chs": 5
+    },
+    {
+      "id": 20503,
+      "type": 2,
+      "primary_level": 5,
+      "secondary_level": 3,
+      "init_point": 4500,
+      "end_point": 9000,
+      "name_chs": 5
+    },
+    {
+      "id": 20601,
+      "type": 2,
+      "primary_level": 0,
+      "secondary_level": 3,
+      "init_point": 10000,
+      "end_point": 99999,
+      "name_chs": 6
+    },
+    {
+      "id": 20701,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 1,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20702,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 2,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20703,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 3,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20704,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 4,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20705,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 5,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20706,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 6,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20707,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 7,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20708,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 8,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20709,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 9,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20710,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 10,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20711,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 11,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20712,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 12,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20713,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 13,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20714,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 14,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20715,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 15,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20716,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 16,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20717,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 17,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20718,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 18,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20719,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 19,
+      "init_point": 1000,
+      "end_point": 2000,
+      "name_chs": 6
+    },
+    {
+      "id": 20720,
+      "type": 2,
+      "primary_level": 6,
+      "secondary_level": 20,
+      "init_point": 1000,
+      "end_point": 99999,
+      "name_chs": 6
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "server": {
+    "resource_port": 8440,
+    "lobby_port": 8441,
+    "game_port": 8443,
+    "proxy_port": 23410,
+    "host": "127.0.0.1",
+    "game_data_dir": null
+  },
+  "game": {
+    "init_gold": 999999,
+    "init_diamond": 99999,
+    "init_skin_ticket": 9999,
+    "init_vip": 10,
+    "init_character_level": 5,
+    "unlock_all_characters": true,
+    "unlock_all_skins": true,
+    "unlock_all_items": true,
+    "unlock_all_titles": true,
+    "unlock_all_emojis": true
+  },
+  "database": {
+    "path": "data/mahjong_soul.db"
+  },
+  "game_data": {
+    "path": "data/game_data"
+  }
+}

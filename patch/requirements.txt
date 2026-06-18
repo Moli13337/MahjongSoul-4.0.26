@@ -1,0 +1,4 @@
+# Python dependencies for client patcher
+pefile>=2023.2.7
+UnityPy>=1.11.0
+cryptography>=42.0.0

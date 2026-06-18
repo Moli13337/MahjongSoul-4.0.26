@@ -1,0 +1,8 @@
+{
+  "game_dir": "C:/Path/To/Jantama_MahjongSoul",
+  "private_server_host": "127.0.0.1",
+  "private_server_lobby_port": 8441,
+  "private_server_game_port": 8443,
+  "gateway_proxy_port": 8080,
+  "resource_server_port": 8440
+}

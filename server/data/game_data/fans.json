@@ -1,0 +1,772 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "name_chs": 1,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 2,
+      "name_chs": 2,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 3,
+      "name_chs": 3,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 4,
+      "name_chs": 4,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 5,
+      "name_chs": 5,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 6,
+      "name_chs": 6,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 7,
+      "name_chs": 7,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 8,
+      "name_chs": 8,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 9,
+      "name_chs": 9,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 10,
+      "name_chs": 10,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 11,
+      "name_chs": 11,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 12,
+      "name_chs": 12,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 13,
+      "name_chs": 13,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 0,
+      "rarity": null
+    },
+    {
+      "id": 14,
+      "name_chs": 14,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 0,
+      "rarity": null
+    },
+    {
+      "id": 15,
+      "name_chs": 15,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 16,
+      "name_chs": 16,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 17,
+      "name_chs": 17,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 18,
+      "name_chs": 18,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 19,
+      "name_chs": 19,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 20,
+      "name_chs": 20,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 21,
+      "name_chs": 21,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 22,
+      "name_chs": 22,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 23,
+      "name_chs": 23,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 24,
+      "name_chs": 24,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 25,
+      "name_chs": 25,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 26,
+      "name_chs": 26,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 27,
+      "name_chs": 27,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 28,
+      "name_chs": 28,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 0,
+      "rarity": null
+    },
+    {
+      "id": 29,
+      "name_chs": 29,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 30,
+      "name_chs": 30,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 31,
+      "name_chs": 31,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 32,
+      "name_chs": 32,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 33,
+      "name_chs": 33,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 34,
+      "name_chs": 34,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 35,
+      "name_chs": 35,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 11
+    },
+    {
+      "id": 36,
+      "name_chs": 36,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 12
+    },
+    {
+      "id": 37,
+      "name_chs": 37,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 34
+    },
+    {
+      "id": 38,
+      "name_chs": 38,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 33
+    },
+    {
+      "id": 39,
+      "name_chs": 39,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 32
+    },
+    {
+      "id": 40,
+      "name_chs": 40,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 24
+    },
+    {
+      "id": 41,
+      "name_chs": 41,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 22
+    },
+    {
+      "id": 42,
+      "name_chs": 42,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 31
+    },
+    {
+      "id": 43,
+      "name_chs": 43,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 23
+    },
+    {
+      "id": 44,
+      "name_chs": 44,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 13
+    },
+    {
+      "id": 45,
+      "name_chs": 45,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": 21
+    },
+    {
+      "id": 46,
+      "name_chs": 46,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 47,
+      "name_chs": 47,
+      "yiman": 2,
+      "fan_menqing": 26,
+      "fan_fulu": 26,
+      "rarity": 14
+    },
+    {
+      "id": 48,
+      "name_chs": 48,
+      "yiman": 2,
+      "fan_menqing": 26,
+      "fan_fulu": 26,
+      "rarity": 17
+    },
+    {
+      "id": 49,
+      "name_chs": 49,
+      "yiman": 2,
+      "fan_menqing": 26,
+      "fan_fulu": 26,
+      "rarity": 15
+    },
+    {
+      "id": 50,
+      "name_chs": 50,
+      "yiman": 2,
+      "fan_menqing": 26,
+      "fan_fulu": 26,
+      "rarity": 16
+    },
+    {
+      "id": 51,
+      "name_chs": 51,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 52,
+      "name_chs": 52,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 53,
+      "name_chs": 53,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 54,
+      "name_chs": 54,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 55,
+      "name_chs": 55,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 56,
+      "name_chs": 56,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 57,
+      "name_chs": 57,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 58,
+      "name_chs": 58,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 59,
+      "name_chs": 59,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 60,
+      "name_chs": 60,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 61,
+      "name_chs": 61,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 62,
+      "name_chs": 62,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 63,
+      "name_chs": 63,
+      "yiman": 1,
+      "fan_menqing": 13,
+      "fan_fulu": 13,
+      "rarity": null
+    },
+    {
+      "id": 64,
+      "name_chs": 64,
+      "yiman": 2,
+      "fan_menqing": 26,
+      "fan_fulu": 26,
+      "rarity": null
+    },
+    {
+      "id": 65,
+      "name_chs": 59,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 801,
+      "name_chs": 65,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 802,
+      "name_chs": 66,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 803,
+      "name_chs": 67,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 804,
+      "name_chs": 2,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 805,
+      "name_chs": 18,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 806,
+      "name_chs": 68,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 807,
+      "name_chs": 69,
+      "yiman": null,
+      "fan_menqing": 4,
+      "fan_fulu": 4,
+      "rarity": null
+    },
+    {
+      "id": 808,
+      "name_chs": 70,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 809,
+      "name_chs": 71,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1000,
+      "name_chs": 72,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 1001,
+      "name_chs": 73,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 1002,
+      "name_chs": 74,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 1003,
+      "name_chs": 75,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 1004,
+      "name_chs": 76,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    },
+    {
+      "id": 1005,
+      "name_chs": 21,
+      "yiman": null,
+      "fan_menqing": 2,
+      "fan_fulu": 2,
+      "rarity": null
+    },
+    {
+      "id": 1006,
+      "name_chs": 29,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 1007,
+      "name_chs": 25,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 1008,
+      "name_chs": 77,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 1009,
+      "name_chs": 78,
+      "yiman": null,
+      "fan_menqing": 3,
+      "fan_fulu": 3,
+      "rarity": null
+    },
+    {
+      "id": 1010,
+      "name_chs": 79,
+      "yiman": null,
+      "fan_menqing": 4,
+      "fan_fulu": 4,
+      "rarity": null
+    },
+    {
+      "id": 1011,
+      "name_chs": 80,
+      "yiman": null,
+      "fan_menqing": 4,
+      "fan_fulu": 4,
+      "rarity": null
+    },
+    {
+      "id": 1012,
+      "name_chs": 81,
+      "yiman": null,
+      "fan_menqing": 4,
+      "fan_fulu": 4,
+      "rarity": null
+    },
+    {
+      "id": 1013,
+      "name_chs": 82,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 1014,
+      "name_chs": 83,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 1015,
+      "name_chs": 84,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1016,
+      "name_chs": 85,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1017,
+      "name_chs": 86,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1018,
+      "name_chs": 35,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1019,
+      "name_chs": 36,
+      "yiman": null,
+      "fan_menqing": 6,
+      "fan_fulu": 6,
+      "rarity": null
+    },
+    {
+      "id": 1020,
+      "name_chs": 87,
+      "yiman": null,
+      "fan_menqing": 5,
+      "fan_fulu": 5,
+      "rarity": null
+    },
+    {
+      "id": 1021,
+      "name_chs": 88,
+      "yiman": null,
+      "fan_menqing": 1,
+      "fan_fulu": 1,
+      "rarity": null
+    }
+  ]
+}
