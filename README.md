@@ -2,6 +2,10 @@
 
 A private server implementation for Mahjong Soul (雀魂) Steam client. This project allows you to run a local private server with all content unlocked.
 
+[](./pic/1.png)
+[](./pic/2.png)
+[](./pic/3.png)
+
 ## Features
 
 - **Full Steam bypass** - 8 binary patches to GameAssembly.dll + stub steam_api.dll
